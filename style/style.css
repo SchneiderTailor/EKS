@@ -113,6 +113,7 @@ body {
 .nav-masthead .nav-link {
   color: rgba(255, 255, 255, .5);
   border-bottom: .25rem solid transparent;
+  
 }
 
 .nav-masthead .nav-link:hover,
@@ -122,6 +123,7 @@ body {
 
 .nav-masthead .nav-link + .nav-link {
   margin-left: 1rem;
+  
 }
 
 .nav-masthead .active {
